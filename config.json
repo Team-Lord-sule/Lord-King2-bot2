@@ -17,21 +17,21 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100042292561861",
-    "YOUR_SECOND_UID",
-    "YOUR_THIRD_UID",
-    "YOUR_FOURTH_UID",
-		"YOUR_FIFTH_UID"
+    "61553831554503",
+    "61563234700684",
+    "61560050885709",
+    "61556609578687",
+		"100069578474534"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Ayush Shukla",
-  "AGE": "22",
-  "GENDER": "MALE",
-  "nickNameBot": "⍟🄺🄸🄽🄶🄱🄾🅃㋛︎",
+  "OWNER": "𝙇𝙤𝙧𝙙 𝙠𝙞𝙣𝙜 𝙅𝙪𝙣𝙞𝙤𝙧 {𝙅𝙖𝙮𝙙𝙚𝙣}",
+  "AGE": "21",
+  "GENDER": "𝙈𝙖𝙡𝙚",
+  "nickNameBot": "",
   "FACEBOOK": "https://www.facebook.com/100042292561861",
   "prefix": "/",
   "database": {
